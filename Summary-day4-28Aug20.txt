@@ -1,0 +1,11 @@
+Summary of what we have learned today, 28th August 2020:
+
+1.  Belajar mendeklarasikan variable
+2.  Belajar menggunakan operator math
+3.  Belajar menggunakan operator logika
+4.  Belajar deklarasi Array, nested Array
+
+
+
+student Backend Batch7,
+Fuad Najibullah
