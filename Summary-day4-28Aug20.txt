@@ -4,6 +4,7 @@ Summary of what we have learned today, 28th August 2020:
 2.  Belajar menggunakan operator math
 3.  Belajar menggunakan operator logika
 4.  Belajar deklarasi Array, nested Array
+5.  Belajar mengetahui tipe data
 
 
 
