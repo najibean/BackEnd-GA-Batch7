@@ -1,0 +1,9 @@
+﻿Summary of what we have learned today, 27th August 2020:
+
+1.  Belajar create new branch
+2.  Belajar melakukan merge dari branch ke master
+3.  Belajar basic HTML dan CSS
+
+fungsi dari command berikut adalah:
++ git checkout -b <branch_name> --> adalah untuk pindah stage ke branch yang sudah di create / bisa juga create new branch locally
++ git pull origin <branch_name> --> adalah untuk menarik seluruh file yang ada di repo branch dari Gitlab/Github
