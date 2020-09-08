@@ -1,0 +1,18 @@
+jumat 04/09/2020
+- pseudocode and algoritm
+- learn DOM with the task
+- practice and review for the whole week
+
+senin 07/09/2020
+- introduction about ECMAscript6
+- the differences between 'let' and 'const' and why we should not use 'var' anymore
+- class as the blue print of object in javascript
+- make constructor if we want to make some property and it's value inside class
+- use keyword 'this' as refer to name of class
+- use keyword 'new' if we want to invoke the class
+
+selasa 08/09/2020
+- reading for basic knowledge about nodeJS and NPM
+- review tuesday task (sort letters, random color, convert number to time, count vowel within string)
+- suggestion to read about OOP which will be teach today (rabu, 9-sept-2020)
+

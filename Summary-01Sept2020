@@ -5,3 +5,4 @@ Resume of what we learned by today, 1st September 2020:
 + learning about built in function of Array (push, unshift, pop, sort, etc)
 + deep learning about function and how to invoke/call it by different argument
 + split some function into some different files and how we can invoke them all
++ learning about CREATE and DELETE function
