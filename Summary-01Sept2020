@@ -1,8 +1,0 @@
-Resume of what we learned by today, 1st September 2020:
-
-+ the meaning of Object and how to declare Object
-+ there is Object inside Object (nested Object), also there is 'Array in Object' & 'Array of Object'
-+ learning about built in function of Array (push, unshift, pop, sort, etc)
-+ deep learning about function and how to invoke/call it by different argument
-+ split some function into some different files and how we can invoke them all
-+ learning about CREATE and DELETE function
