@@ -1,0 +1,23 @@
+senin 07/09/2020
+- introduction about ECMAscript6
+- the differences between 'let' and 'const' and why we should not use 'var' anymore
+- class as the blue print of object in javascript
+- make constructor if we want to make some property and it's value inside class
+- use keyword 'this' as refer to name of class
+- use keyword 'new' if we want to invoke the class
+
+--------------------------------------------------------------------------
+
+selasa 08/09/2020
+- reading for basic theory knowledge about nodeJS (as the javascript runtime) and NPM
+- review tuesday task (sort letters, random color, convert number to time, count vowel within string)
+- suggestion to read about OOP which will be teach today (rabu, 9-sept-2020)
+
+--------------------------------------------------------------------------
+
+rabu 09/09/2020
+- learning about OOP
+- understanding about Inheritance, Polymorphism, Encapsulation, Accesser (related to Setter & Getter)
+
+--------------------------------------------------------------------------
+

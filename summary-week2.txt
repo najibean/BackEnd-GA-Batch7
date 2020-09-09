@@ -1,0 +1,35 @@
+summary on Monday, 31 August 2020 has no made!!! hehehe *sorry
+
+--------------------------------------------------------------------------
+
+Resume of what we learned by today, 1st September 2020:
+
++ the meaning of Object and how to declare Object
++ there is Object inside Object (nested Object), also there is 'Array in Object' & 'Array of Object'
++ learning about built in function of Array (push, unshift, pop, sort, etc)
++ deep learning about function and how to invoke/call it by different argument
++ split some function into some different files and how we can invoke them all
++ learning about CREATE and DELETE function
+
+--------------------------------------------------------------------------
+
+Summary of what have been learning at 02 september 2020:
+
++ what is DOM
++ how to add data, create data, get data, delete data
++ praccticing some exercise (which many unclear to me! hehehe)
+
+--------------------------------------------------------------------------
+
+what we have been learning in Thursday 03 sept 2020:
+
++ learning about algoritma
++ about pseudocode
++ about coding
+
+--------------------------------------------------------------------------
+
+summary jumat 04/09/2020
+- pseudocode and algoritm
+- learn DOM with the task
+- practice and review for the whole week

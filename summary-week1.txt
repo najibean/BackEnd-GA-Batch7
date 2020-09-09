@@ -1,0 +1,46 @@
+Resume of what we learned by today, 25th August 2020:
+
+1.	mengerti tentang hakikat backend dan fungsinya
+2.	mengerti perbedaan backend dan devOps
+3.	menginstall nodeJS dengan versi terbaru
+4.	mengerti penggunaan Vscode dan plugin Emmet-nya dalam create file HMTL5
+5.	mengerti dasar-dasar pengoperasian terminal / command line (create folder, create file, pindah directory, remove file dan directory, dan lain sebagainya)
+
+--------------------------------------------------------------------------
+
+Summary of what we have learned today, 26th August 2020:
+
+1.	Mengerti tentang beberapa perintah Gitlab yang dijalankan melalui terminal (bash) seperti: init, add, push, pull, clone
+2.	Mengetahui bagaimana cara create project di Gitlab
+
+a.	Pengertian Git
+		Yaitu sebuah Version Control yang memungkinkan masing-masing programmer bisa bekerjasama dalam team meski ada perbedaan jarak dan waktu. Setiap revisi yang dibuat akan ada history nya.
+
+b.	fungsi beberapa command:
+		- git init ==> sebagai inisiasi pada directory tersebut untuk dilakukan integrasi ke git
+		- git remote add origin <link> ==> memberikan koneksi kepada link di Gitlab / Github
+		- git add <file name> ==> menambahkan file yang akan kita upload pada Git
+		- git commit -m “<message-name>” ==> memberikan comment/message pada file
+		- git push origin master ==> meng-upload file yang sudah diberikan message sebelumnya.
+
+--------------------------------------------------------------------------
+
+Summary of what we have learned today, 27th August 2020:
+
+1.  Belajar create new branch
+2.  Belajar melakukan merge dari branch ke master
+3.  Belajar basic HTML dan CSS
+
+fungsi dari command berikut adalah:
++ git checkout -b <branch_name> --> adalah untuk pindah stage ke branch yang sudah di create / bisa juga create new branch locally
++ git pull origin <branch_name> --> adalah untuk menarik seluruh file yang ada di repo branch dari Gitlab/Github
+
+--------------------------------------------------------------------------
+
+Summary of what we have learned today, 28th August 2020:
+
+1.  Belajar mendeklarasikan variable (varible -> the variety of data which we put into those variable)
+2.  Belajar type data (number, string, boolean, null, undefined, object)
+3.  Belajar menggunakan operator math 
+4.  Belajar menggunakan operator logika 
+5.  Belajar deklarasi Array, nested Array
