@@ -16,8 +16,21 @@ selasa 08/09/2020
 --------------------------------------------------------------------------
 
 rabu 09/09/2020
-- learning about OOP
-- understanding about Inheritance, Polymorphism, Encapsulation, Accesser (related to Setter & Getter)
+- learning about basic OOP
+- static property and instance property
+- understanding about Inheritance, Polymorphism, Encapsulation, Abstraction, Access modifier (public, protect, private)
 
 --------------------------------------------------------------------------
+
+kamis 10/09/2020
+- continue learning about OOP
+- practice and practice agian
+
+--------------------------------------------------------------------------
+
+Jum'at 11/09/2020
+- learning about Argv in nodeJS
+- the anatomy about nodeJS inside file system
+- how to read data, add data, and save data in JSON extention file
+- review about static factory method
 
