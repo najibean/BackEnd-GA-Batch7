@@ -1,0 +1,13 @@
+senin 14/09/2020
+- mini quiz about OOP
+- task given to read about aynchronous (callback and promies)
+
+--------------------------------------------------------------------------
+
+selasa 15/09/2020
+
+- learning about MVC (list, add, delete, update)
+- learning about asynchronous callback
+
+
+--------------------------------------------------------------------------
