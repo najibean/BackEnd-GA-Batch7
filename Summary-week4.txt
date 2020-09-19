@@ -5,9 +5,23 @@ senin 14/09/2020
 --------------------------------------------------------------------------
 
 selasa 15/09/2020
-
 - learning about MVC (list, add, delete, update)
 - learning about asynchronous callback
 
+--------------------------------------------------------------------------
+
+Rabu 16/09/2020
+- installing Postgresql and configure with pgAdmin
+- using query to insert the column of table
 
 --------------------------------------------------------------------------
+
+Kamis 17/09/2020
+- installing express
+- install nodemon
+
+--------------------------------------------------------------------------
+
+Jum'at 19/09/2020
+- using sequelize to make CRUD in db
+- and manymore. Got confused till this step, sorry...
