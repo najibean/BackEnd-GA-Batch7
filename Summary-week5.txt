@@ -1,0 +1,14 @@
+Senin, 21/09/2020
+
+- Code challenge
+
+--------------------------------------------------------------------------
+
+Selasa, 22/09/2020
+
+- dotenv / .env as to hide private information
+- little knowledge about bootstrap
+- how to use postman more comprehensif
+
+
+--------------------------------------------------------------------------
