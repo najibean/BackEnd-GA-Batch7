@@ -8,7 +8,25 @@ Selasa, 22/09/2020
 
 - dotenv / .env as to hide private information
 - little knowledge about bootstrap
-- how to use postman more comprehensif
-
+- how to use postman more comprehensif 
+- how to use bootstrap in our web
 
 --------------------------------------------------------------------------
+
+Rabu, 23/09/2020
+- validation, hooks, seeding without jason (from postman apk), async-await, many-to-many konsep
+- split into some group to do TryOut of MiniProject
+- learning about RESTful API
+
+--------------------------------------------------------------------------
+
+Kamis, 24/09/2020
+- login, register, bcrypt
+- in bcypt --> encrypted and decrypted password
+- json webtoken
+
+--------------------------------------------------------------------------
+
+Jumat, 25/09/2020
+- authorization
+- error handling
